@@ -7,3 +7,5 @@ novo-readme
 nova linha nossa
 
 a linha da imp1
+
+vai da besteira
